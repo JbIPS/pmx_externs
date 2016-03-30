@@ -7,5 +7,8 @@
   "releasenote": "Initial release",
   "classPath": "src",
   "contributors": ["JbIPS"],
-  "tags": ["js", "nodejs", "keymetrics", "net", "web"]
+  "tags": ["js", "nodejs", "keymetrics", "net", "web"],
+  "dependencies": {
+    "hxnodejs": ""
+  }
 }
