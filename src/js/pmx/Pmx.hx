@@ -1,4 +1,4 @@
-package pmx;
+package js.pmx;
 
 import js.node.stream.Readable;
 

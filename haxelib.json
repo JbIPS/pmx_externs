@@ -1,10 +1,10 @@
 {
   "name": "pmx_externs",
   "url": "https://github.com/JbIPS/pmx_externs",
-  "description": "Extern definitions for PMX",
+  "description": "Extern definitions for PMX for Haxe/NodeJS target",
   "license": "MIT",
-  "version": "1.0.0",
-  "releasenote": "Initial release",
+  "version": "1.1.0",
+  "releasenote": "Move files to js package to explicitely specify the JS target",
   "classPath": "src",
   "contributors": ["JbIPS"],
   "tags": ["js", "nodejs", "keymetrics", "net", "web"],
